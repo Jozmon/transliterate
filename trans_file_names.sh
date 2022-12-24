@@ -4,6 +4,10 @@
 # 
 # Источник: http://www.ubuntu.sumy.ua/2011/03/translit.html
 
+##fak dis shit
+##new shit begins here
+
+
 shopt -s nullglob
 for NAME in * ; do
  TRS=`echo $NAME | sed "y/абвгдезийклмнопрстуфхцы/abvgdezijklmnoprstufxcy/"`
